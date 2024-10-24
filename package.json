@@ -1,0 +1,16 @@
+{
+  "name": "media-sync-server",
+  "version": "1.0.0",
+  "description": "Backend server for Media Sync App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
